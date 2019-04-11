@@ -1,0 +1,21 @@
+.about-header {
+  margin-bottom: 3rem;
+}
+
+.tags {
+  justify-content: center;
+  margin-top: 0.75rem;
+}
+
+.contact {
+  padding: 3rem;
+}
+
+.is-centered {
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  background: #363636;
+}
